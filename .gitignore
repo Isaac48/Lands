@@ -328,3 +328,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# Xamarin BUILD
+Lands\Lands\bin
+Lands\Lands\obj
