@@ -330,5 +330,9 @@ ASALocalRun/
 .mfractor/
 
 # Xamarin BUILD
-Lands\Lands\bin
-Lands\Lands\obj
+/Lands/Lands/bin/Debug/netstandard2.0
+/Lands/Lands/obj
+/Lands/Lands.Android/bin/Debug
+/Lands/Lands.Android/Assets
+/Lands/Lands.Android/obj
+/.vs
